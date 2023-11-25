@@ -1,4 +1,4 @@
-# Sistema-Universidade
+# Sistema Universidade
 
 ## Parte Lógica
 
@@ -6,9 +6,9 @@
 
 ## Tabelas
 ![PNG](1.png)
-![PNG](1.png)
-![PNG](1.png)
-![PNG](1.png)
+![PNG](2.png)
+![PNG](3.png)
+![PNG](4.png)
 
 Script SQL:
 [SQL](Main.sql)
